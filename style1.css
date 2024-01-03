@@ -1,0 +1,12 @@
+*{
+    background-color: rgb(188, 241, 225);
+    margin: 2px;
+}
+p,li{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size:70px;
+    background-color: rgb(19, 67, 69);
+}
